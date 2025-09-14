@@ -1,2 +1,2 @@
 # Development-of-AI-Powered-Loan-Eligibility-Advisory-System-
-AI-Powered Loan Eligibility Advisor predicts loan approval chances using machine learning models and features a financial guidance chatbot to provide real-time evaluation and help users understand key factors affecting their loan approval.
+To develop an AI-powered web application that instantly predicts loan eligibility using machine learning, while providing explainable insights and personalized financial guidance. This solution enhances transparency, speeds up loan processing, and empowers both applicants and lenders with data-driven decisions.
